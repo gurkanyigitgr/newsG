@@ -1,0 +1,28 @@
+# Bağımlılıklar
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Üretim dosyaları
+backend/dist/
+frontend/build/
+
+# Çevre değişkenleri
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# IDE ve düzenleyiciler
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
